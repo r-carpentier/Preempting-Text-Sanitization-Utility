@@ -21,14 +21,14 @@ Also, you need to install the conda environment from the file preempting_env.yml
 2. `conda activate preempting_env`
 
 ### Run the code
-1. The folder "Section4-Summarization" contains the summarization experiments of the Section 4 of the paper.
-2. The folder "Section5-dxPrivacy" contains the code for Section 5 about replicating experiments from (Feyisetan et al., 2020).
+1. The folder "Section4-dxPrivacy" contains the code for Section 4 about replicating experiments from (Feyisetan et al., 2020).
+2. The folder "Section5-Experiments" contains the experiments on summarization and translation of the Section 5 of the paper.
 
 Please refer to the README.md of each folder for further information.
 
 ## References in the code
-- (Asghar et al., 2024): H. J. Asghar, R. Carpentier, B. Z. H. Zhao, and D. Kaafar, "dX-privacy for text and the curse of dimensionality." 2024. [Online]. Available: https://arxiv.org/abs/2411.13784
+- (Asghar et al., 2024): H. J. Asghar, R. Carpentier, B. Z. H. Zhao, and D. Kaafar, "dX-privacy for text and the curse of dimensionality." 2024. [Online]. [arXiv:2411.13784](https://arxiv.org/abs/2411.13784)
 
-- (Feyisetan et al., 2020): O. Feyisetan, B. Balle, T. Drake, and T. Diethe, "Privacy- and utility-preserving textual analysis via calibrated multivariate perturbations," in Proceedings of the 13th international conference on web search and data mining, in WSDM ’20. New York, NY, USA: Association for Computing Machinery, 2020, pp. 178–186. doi: 10.1145/3336191.3371856.
+- (Feyisetan et al., 2020): O. Feyisetan, B. Balle, T. Drake, and T. Diethe, “Privacy- and utility-preserving textual analysis via calibrated multivariate perturbations,” in Proceedings of the 13th international conference on web search and data mining, in WSDM ’20. New York, NY, USA: Association for Computing Machinery, 2020, pp. 178–186. doi: [10.1145/3336191.3371856](https://doi.org/10.1145/3336191.3371856).
 
-- (Qu et al., 2021): C. Qu, W. Kong, L. Yang, M. Zhang, M. Bendersky, and M. Najork, "Natural language understanding with privacy-preserving BERT," in Proceedings of the 30th ACM international conference on information & knowledge management, in CIKM ’21. New York, NY, USA: Association for Computing Machinery, 2021, pp. 1488–1497. doi: 10.1145/3459637.3482281.
+- (Qu et al., 2021): C. Qu, W. Kong, L. Yang, M. Zhang, M. Bendersky, and M. Najork, "Natural language understanding with privacy-preserving BERT," in Proceedings of the 30th ACM international conference on information & knowledge management, in CIKM ’21. New York, NY, USA: Association for Computing Machinery, 2021, pp. 1488–1497. doi: [10.1145/3459637.3482281](https://doi.org/10.1145/3459637.3482281).
